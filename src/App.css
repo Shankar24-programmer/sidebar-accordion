@@ -144,3 +144,68 @@ h3 {
   margin-top: -4px;
 }
 
+.nav-link {
+  padding: 0 !important;
+}
+.dashboard {
+  display: flex;
+  margin-left: 400px;
+  margin-top: -800px;
+
+}
+.applications {
+  display: flex;
+  margin-left: 700px;
+  margin-top: -500px;
+}
+.all-applications{
+  display: flex;
+  margin-left: 700px;
+  margin-top: -500px;
+}
+.add-new-app {
+  display: flex;
+  margin-left: 700px;
+  margin-top: -500px;
+}
+
+.shopifystores {
+  display: flex;
+  margin-left: 700px;
+  margin-top: -500px;
+}
+
+.all-shopifystores {
+  display: flex;
+  margin-left: 700px;
+  margin-top: -500px;
+}
+
+.add-new-shop{
+  display: flex;
+  margin-left: 700px;
+  margin-top: -500px;
+}
+.authenticationproviders {
+  display: flex;
+  margin-left: 700px;
+  margin-top: -500px;
+}
+.all-authenticationproviders{
+  display: flex;
+  margin-left: 700px;
+  margin-top: -500px;
+}
+.add-new-auth {
+  display: flex;
+  margin-left: 700px;
+  margin-top: -500px;
+}
+.providers {
+  display: flex;
+  margin-left: 700px;
+  margin-top: -500px;
+} 
+.nav-link {
+  color: white !important;
+}
